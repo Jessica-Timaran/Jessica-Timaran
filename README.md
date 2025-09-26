@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jessica Timaran
 
-Soy **Desarrolladora FullStack Junior**, enfocada en seguir aprendiendo y creando proyectos prácticos.  
+Soy tecnologa en **analisis y desarrollo de software**, enfocada en seguir aprendiendo y creando proyectos prácticos.  
 Me interesa el desarrollo **Frontend y Backend**, y disfruto construir aplicaciones que resuelvan problemas reales.
 
 ---
